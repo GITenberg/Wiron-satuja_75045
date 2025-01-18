@@ -1,0 +1,32 @@
+_repo: Wiron-satuja_75045
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2025-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75045'
+language: fi
+pgterms:marc904: https://digi.kansalliskirjasto.fi/teos/binding/2514121?page=1
+pgterms:marc905: 20241230125341anonymous
+pgterms:marc906: '1849'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aSt. Mikkel :$bJ. Cederwaller poikineen, $c1849.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wiron satuja
+url: http://www.gutenberg.org/ebooks/75045
